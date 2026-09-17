@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Env
+.env
+
+# Node (if the frontend is later migrated to a Vite/React build)
+node_modules/
+dist/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# ML trained artifacts (regenerate via `python -m ml.training.train_classifier`)
+*.pkl
+
+# Logs
+*.log

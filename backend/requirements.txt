@@ -1,0 +1,16 @@
+# Core web framework
+# NOTE: the original brief specifies FastAPI + uvicorn. Neither could be
+# installed in the build/verification sandbox (no internet access), so this
+# prototype uses Flask, which was already available and could actually be
+# run and tested end-to-end. See backend/app/__init__.py docstring for the
+# FastAPI migration path (drop-in: the service layer does not change).
+Flask==3.1.3
+
+# ML / data
+numpy>=1.26
+scikit-learn>=1.4
+Pillow>=10.0
+
+# Testing (optional -- stdlib unittest works with zero extra installs;
+# pytest is a nicer runner if you have internet: pip install pytest)
+pytest>=8.0

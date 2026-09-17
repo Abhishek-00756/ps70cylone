@@ -1,0 +1,78 @@
+{
+  "cyclone_id": "DEMO-01",
+  "name": "CYCLONE DEMO-01",
+  "points": [
+    {
+      "timestamp": "2026-09-13T15:59:03.962297+00:00",
+      "lat": 12.5,
+      "lon": 88.0,
+      "organization": 0.15,
+      "sst_proxy": 0.55,
+      "wind_shear_proxy": 0.45
+    },
+    {
+      "timestamp": "2026-09-13T18:59:03.962297+00:00",
+      "lat": 13.899,
+      "lon": 87.253,
+      "organization": 0.264,
+      "sst_proxy": 0.665,
+      "wind_shear_proxy": 0.316
+    },
+    {
+      "timestamp": "2026-09-13T21:59:03.962297+00:00",
+      "lat": 15.148,
+      "lon": 86.53,
+      "organization": 0.44,
+      "sst_proxy": 0.762,
+      "wind_shear_proxy": 0.203
+    },
+    {
+      "timestamp": "2026-09-14T00:59:03.962297+00:00",
+      "lat": 16.137,
+      "lon": 85.853,
+      "organization": 0.631,
+      "sst_proxy": 0.827,
+      "wind_shear_proxy": 0.127
+    },
+    {
+      "timestamp": "2026-09-14T03:59:03.962297+00:00",
+      "lat": 16.819,
+      "lon": 85.239,
+      "organization": 0.806,
+      "sst_proxy": 0.85,
+      "wind_shear_proxy": 0.1
+    },
+    {
+      "timestamp": "2026-09-14T06:59:03.962297+00:00",
+      "lat": 17.229,
+      "lon": 84.7,
+      "organization": 0.945,
+      "sst_proxy": 0.827,
+      "wind_shear_proxy": 0.127
+    },
+    {
+      "timestamp": "2026-09-14T09:59:03.962297+00:00",
+      "lat": 17.469,
+      "lon": 84.239,
+      "organization": 1.0,
+      "sst_proxy": 0.762,
+      "wind_shear_proxy": 0.203
+    },
+    {
+      "timestamp": "2026-09-14T12:59:03.962297+00:00",
+      "lat": 17.685,
+      "lon": 83.853,
+      "organization": 0.925,
+      "sst_proxy": 0.665,
+      "wind_shear_proxy": 0.316
+    },
+    {
+      "timestamp": "2026-09-14T15:59:03.962297+00:00",
+      "lat": 18.029,
+      "lon": 83.53,
+      "organization": 0.55,
+      "sst_proxy": 0.55,
+      "wind_shear_proxy": 0.45
+    }
+  ]
+}
